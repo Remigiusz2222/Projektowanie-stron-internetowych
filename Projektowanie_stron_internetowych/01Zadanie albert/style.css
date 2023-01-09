@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+#container {
+    width: 90%;
+    margin: auto;
+    background-color: aqua;
+}
+
+header  {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+nav {
+    width: 30%;
+    background-color: gray;
+    float: left;
+    padding: 20px;
+}
+
+article {
+    width: 70%;
+    background-color: white;
+    float: left;
+    padding: 20px;
+    border: 2px black solid;
+    text-align: justify;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    clear: both;
+}
+
+hr {
+    border: px;
+}
